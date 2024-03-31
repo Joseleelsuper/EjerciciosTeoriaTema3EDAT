@@ -2,7 +2,7 @@
 
 Se trata de ejercicios de teoría del tema 3 de **Estructura de Datos** (EDAT), en la [Universidad de Burgos](https://www.ubu.es/) (UBU)
 
-El código, en su mayor parte, ya se encuentra en el [PDF]() asociado a los ejercicios, pero esto sirve para que se veo al completo el código utilizado para resolver los ejercicios, con comentarios incluidos.
+El código, en su mayor parte, ya se encuentra en el [PDF](https://wuolah.com/apuntes/estructuras-de-datos/ejercicios-teoria-ejercicios-tema-3-edat-pdf-10117143?utm_source=wuolah&utm_medium=referral&utm_campaign=file-openfile) asociado a los ejercicios, pero esto sirve para que se veo al completo el código utilizado para resolver los ejercicios, con comentarios incluidos.
 
 # Requerimientos
 ## Para Windows
